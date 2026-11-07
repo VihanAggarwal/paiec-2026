@@ -1,0 +1,9 @@
+.venv/
+paiec_baseline/
+_dl/
+data/
+dist/
+__pycache__/
+*.pyc
+secrets/
+**/anthropic_key.txt
